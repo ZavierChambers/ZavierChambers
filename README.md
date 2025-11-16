@@ -1,37 +1,39 @@
-# 👋 Hello, World!
+# 👋 Hey, I’m Zavier
 
-> [!WARNING]  
-> **I'm passionate about lifelong learning and turning curiosity into creation.**
+> [!IMPORTANT]  
+> I build, break, and secure things — and I’m always learning something new along the way.
 
-## 💻 About Me  
-I’m **Zavier Chambers**, a dual-degree student at *Duquesne University*, pursuing **Computer Science** and **Cybersecurity** concurrently.
-
----
-
-### 🚀 My Interests  
-- 👀 I’m deeply interested in applying my growing cybersecurity and programming knowledge to meaningful, impactful projects.  
-- 🤝 I'm open to collaboration, especially with others who share a vision of building secure, innovative tech solutions.  
-- 🧠 I enjoy solving bugs in code — not just as a problem-solving challenge, but as an opportunity to express creativity.
+## 🧑‍🎓 About Me
+I’m **Zavier Chambers**, a dual-degree student at *Duquesne University*, studying **Computer Science** and **Cybersecurity**.  
+My work blends curiosity, creativity, and hands-on experimentation across homelabs, security tools, and real-world development.
 
 ---
 
-### 🌱 Currently Learning  
-- Java & C++ development, with a strong preference for **statically typed languages**  
-- Advanced cybersecurity techniques, particularly in **Active Directory**, **IAM**, and **offensive security concepts**
+## 🚀 What I’m Into
+- 🛡️ Cybersecurity — especially **IAM**, **Active Directory**, and defensive/offensive security concepts  
+- 🧩 Debugging, refining, and improving applications  
+- 🤝 Collaborating with people who care about secure, thoughtful technology  
+- ⚙️ Building projects that are practical, polished, and actually useful
 
 ---
 
-### 💬 Let’s Connect  
-If you're interested in collaborating, mentoring, or just exchanging ideas, feel free to reach out:
+## 🌱 What I’m Learning
+- **Java** and **C++** with a growing love for strongly typed systems  
+- Deeper security fundamentals across networks, authentication models, and modern attack/defense strategies  
+- Realistic offensive security techniques (for homelab learning only)
 
-📫 **Email:** `chambersz@duq.edu`
+---
+
+## 📬 Contact
+If you want to collaborate, chat, or share ideas:
+
+**Email:** `chambersz@duq.edu`
 
 ---
 
 > [!NOTE]  
-> Thank you for taking the time to learn a bit about me. Let’s one day join forces to fix the world’s problems — one line of code at a time. 🧩💻🌍
+> Thanks for stopping by — here’s to building secure, clever, and meaningful tech in the world. 🌍
 
 <!---
-ZavierChambers/ZavierChambers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ZavierChambers/ZavierChambers is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
