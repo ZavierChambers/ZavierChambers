@@ -1,39 +1,65 @@
-# 👋 Hey, I’m Zavier
+# 👋 Hi, I’m Zavier Chambers
 
-> [!IMPORTANT]  
-> I build, break, and secure things — and I’m always learning something new along the way.
-
-## 🧑‍🎓 About Me
-I’m **Zavier Chambers**, a dual-degree student at *Duquesne University*, studying **Computer Science** and **Cybersecurity**.  
-My work blends curiosity, creativity, and hands-on experimentation across homelabs, security tools, and real-world development.
+> I work at the intersection of **security**, **systems**, and **business analysis** | turning vague problems into clear, workable solutions.
 
 ---
 
-## 🚀 What I’m Into
-- 🛡️ Cybersecurity — especially **IAM**, **Active Directory**, and defensive/offensive security concepts  
-- 🧩 Debugging, refining, and improving applications  
-- 🤝 Collaborating with people who care about secure, thoughtful technology  
-- ⚙️ Building projects that are practical, polished, and actually useful
+## 🧠 About Me
+
+I’m **Zavier Chambers**, a dual-degree student in **Computer Science** and **Cybersecurity** at *Duquesne University*, with hands-on experience in **identity & access management (IAM)**, internal tooling, and requirements-driven development.
+
+I’m less interested in hype and buzzwords, and more interested in:
+- explaing how systems *actually* behave,
+- why they fail or bring value,
+- and how to design solutions that people can understand, use, and trust.
+
+Most “technical” problems start as communication problems. I focus on fixing that first.
 
 ---
 
-## 🌱 What I’m Learning
-- **Java** and **C++** with a growing love for strongly typed systems  
-- Deeper security fundamentals across networks, authentication models, and modern attack/defense strategies  
-- Realistic offensive security techniques (for homelab learning only)
+## 🧭 What I Focus On
+
+- 🔐 **Cybersecurity & IAM**  
+  Identity, access controls, authentication models, and audit-friendly workflows.
+
+- 🧩 **Business Analysis for Technical Systems**  
+  Translating fuzzy needs into clear requirements, acceptance criteria, and delivered outcomes.
+
+- 🛠️ **Practical Tools & Explainability**  
+  Small, focused projects that demonstrate concepts instead of just describing them.
+
+- ⚙️ **Systems Thinking**  
+  Understanding tradeoffs, failure modes, and constraints, not just implementations.
 
 ---
 
-## 📬 Contact
-If you want to collaborate, chat, or share ideas:
+## 🔍 What I’m Actively Developing
 
-**Email:** `chambersz@duq.edu`
+- Deeper expertise in **IAM**, **enterprise security tooling**, and identity workflows  
+- Stronger foundations in **typed languages** (Java, C++) and system design  
+- Realistic offensive security techniques for **defensive understanding** (homelab only)  
+- Clearer documentation, requirements capture, and stakeholder-facing communication
 
 ---
 
-> [!NOTE]  
-> Thanks for stopping by — here’s to building secure, clever, and meaningful tech in the world. 🌍
+## 🧪 Projects & Work
 
-<!---
-ZavierChambers/ZavierChambers is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
+Most of my work lives in small, self-contained tools and explainers:
+- Client-side security demos
+- Privacy-first utilities
+- Workflow and requirements capture tools
+
+If it’s public, it’s meant to be **used**, not just admired.
+
+---
+
+## 📫 Contact
+
+If you want to collaborate, compare notes, or talk through a problem:
+
+**Email:** `chambersz@duq.edu`  
+**Site:** https://zavierchambers.com
+
+---
+
+> I’m interested in building technology that’s understandable, defensible, and actually useful & not just impressive on paper.
