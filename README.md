@@ -36,7 +36,7 @@ Most “technical” problems start as communication problems. I focus on fixing
 ## 🔍 What I’m Actively Developing
 
 - Deeper expertise in **IAM**, **enterprise security tooling**, and identity workflows  
-- Stronger foundations in **typed languages** (Java, C++) and system design  
+- Stronger love for **interpreted languages** (Python, Bash, etc) and system design  
 - Realistic offensive security techniques for **defensive understanding** (homelab only)  
 - Clearer documentation, requirements capture, and stakeholder-facing communication
 
