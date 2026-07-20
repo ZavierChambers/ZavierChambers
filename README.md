@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I’m **Zavier Chambers**, a dual-degree student in **Computer Science** and **Cybersecurity** at *Duquesne University*, with hands-on experience in **identity & access management (IAM)**, internal tooling, and requirements-driven development.
+I’m **Zavier Chambers**, a dual major degree graduate in **Computer Science** and **Cybersecurity** at *Duquesne University*, with hands-on experience in **identity & access management (IAM)**, internal tooling, and requirements-driven development.
 
 I’m less interested in hype and buzzwords, and more interested in:
 - explaing how systems *actually* behave,
@@ -57,7 +57,7 @@ If it’s public, it’s meant to be **used**, not just admired.
 
 If you want to collaborate, compare notes, or talk through a problem:
 
-**Email:** `chambersz@duq.edu`  
+**Email:** `zavierchambers101@gmail.com`  
 **Site:** https://zavierchambers.com
 
 ---
